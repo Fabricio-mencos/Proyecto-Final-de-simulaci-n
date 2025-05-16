@@ -1,0 +1,6 @@
+pygame==2.6.1
+numpy==2.2.5
+pyyaml==6.0.1
+types-PyYAML>=6.0.12.12  # stubs para PyYAML
+mypy>=1.10.0             # análisis estático de tipos
+pytest>=8.2.0 
